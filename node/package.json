@@ -3,11 +3,12 @@
   "version": "1.0.0",
   "description": "node version of all in one project",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "build": "tsc",
-    "start": "env-cmd -f .env.production ts-node src/index.ts",
-    "dev": "env-cmd -f .env.development nodemon src/index.ts",
-    "dev:node": "env-cmd -f .env.development ts-node src/index.ts"
+    "start": "env-cmd -f .env.production ts-node index.ts",
+    "dev": "env-cmd -f .env.development nodemon index.ts",
+    "dev:node": "env-cmd -f .env.development ts-node index.ts"
   },
   "repository": {
     "type": "git",
@@ -20,6 +21,7 @@
   },
   "homepage": "https://github.com/roman-ojha/all-in-one#readme",
   "devDependencies": {
+    "@types/express": "^4.17.13",
     "nodemon": "^2.0.19",
     "typescript": "^4.7.4"
   },
