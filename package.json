@@ -3,7 +3,15 @@
   "version": "0.1.0",
   "description": "build application using all the technology that i have learned so far",
   "main": "main.js",
-  "scripts": {},
+  "scripts": {
+    "node": "cd ./node && yarn dev",
+    "django": "cd ./django && python manage.py runserver",
+    "web": "cd ./web && yarn dev",
+    "desktop": "cd ./desktop && yarn electron:serve",
+    "flutter": "cd ./flutter && flutter run",
+    "react-native:m": "cd ./react-native && npx react-native start",
+    "react-native:a": "cd ./react-native && npx react-native run-android"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/roman-ojha/all-in-one.git"
@@ -13,5 +21,7 @@
   "bugs": {
     "url": "https://github.com/roman-ojha/all-in-one/issues"
   },
-  "homepage": "https://github.com/roman-ojha/all-in-one#readme"
+  "homepage": "https://github.com/roman-ojha/all-in-one#readme",
+  "dependencies": {},
+  "devDependencies": {}
 }
