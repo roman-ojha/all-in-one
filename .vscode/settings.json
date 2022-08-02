@@ -1,0 +1,3 @@
+{
+  "python.defaultInterpreterPath": ".\\django\\venv\\bin\\python.exe"
+}
