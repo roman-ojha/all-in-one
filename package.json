@@ -1,0 +1,17 @@
+{
+  "name": "all-in-one",
+  "version": "0.1.0",
+  "description": "build application using all the technology that i have learned so far",
+  "main": "main.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roman-ojha/all-in-one.git"
+  },
+  "author": "roman-ojha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/roman-ojha/all-in-one/issues"
+  },
+  "homepage": "https://github.com/roman-ojha/all-in-one#readme"
+}
