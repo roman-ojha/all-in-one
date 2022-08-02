@@ -1,0 +1,31 @@
+{
+  "name": "aio_node",
+  "version": "1.0.0",
+  "description": "node version of all in one project",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "env-cmd -f .env.production ts-node src/index.ts",
+    "dev": "env-cmd -f .env.development nodemon src/index.ts",
+    "dev:node": "env-cmd -f .env.development ts-node src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roman-ojha/all-in-one.git"
+  },
+  "author": "roman-ojha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/roman-ojha/all-in-one/issues"
+  },
+  "homepage": "https://github.com/roman-ojha/all-in-one#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.19",
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "env-cmd": "^10.1.0",
+    "express": "^4.18.1",
+    "ts-node": "^10.9.1"
+  }
+}
