@@ -1,6 +1,6 @@
 <div align="center">
 
-[<h1 style="font-size:60px; width:100%;">All In One</h1>](https://github.com/roman-ojha/all-in-one)
+[<h1 style="font-size:60px; width:100%;">Fotrad</h1>](https://github.com/roman-ojha/all-in-one)
 
 </div>
 
