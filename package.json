@@ -5,7 +5,7 @@
   "main": "main.js",
   "scripts": {
     "node": "cd ./node && yarn dev",
-    "django": "cd ./django && python manage.py runserver",
+    "django": "cd ./django && python activate.py",
     "web": "cd ./web && yarn dev",
     "desktop": "cd ./desktop && yarn electron:serve",
     "flutter": "cd ./flutter && flutter run",
