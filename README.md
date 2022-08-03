@@ -12,23 +12,31 @@
 | [desktop](desktop)           |   Vue + Electron App    |
 | [flutter](flutter)           |   Flutter Mobile App    |
 | [react-native](react-native) | React-Native Mobile App |
-| [node](node)                 |        Node API         |
+| [express](express)           |       Express API       |
 | [django](django)             |       Django API        |
 | [contract](contract)         |     Smart-Contract      |
 
 ## Technology Used:
-| Technology   | Description     |
-| ------------ | --------------- |
-| Next         | Web App         |
-| Electron     | Desktop App     |
-| Vue          | Electron App    |
-| Flutter      | Mobile App      |
-| React-Native | Mobile App      |
-| Express      | Backend API     |
-| Django       | Backend API     |
-| Solidity     | Smart Contract  |
-| MongoDB      | No-SQL Database |
-| PostgreSQL   | SQL Database    |
-| Redis        | Caching         |
-| Docker       | Dockerize Apps  |
-| GraphQL      | Query           |
+| Main Technology | Description                             |
+| --------------- | --------------------------------------- |
+| NextJS          | Web App                                 |
+| ElectronJS      | Desktop App                             |
+| VueJS           | Electron App                            |
+| Flutter         | Mobile App                              |
+| React-Native    | Mobile App                              |
+| Express         | Backend API                             |
+| Django          | Backend API                             |
+| Solidity        | Smart Contract                          |
+| MongoDB         | For No-SQL Database                     |
+| PostgreSQL      | For SQL Database                        |
+| Redis           | For Caching                             |
+| Docker          | To Dockerize Apps                       |
+| GraphQL         | For Querying                            |
+| Typescript      | For Web, React-Native, Vue, Express     |
+| Sass            | CSS Preprocessor                        |
+| Redux           | For Web & React-Native State Management |
+| Jest            | For Testing                             |
+| VueX            | For Vue State Management                |
+| Vue-Router      | For Vue Routing                         |
+| Bloc            | For Flutter Bloc Patter                 |
+| Github Action   | CI/CD                                   |
