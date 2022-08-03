@@ -1,8 +1,8 @@
 import express from "express";
 
 const app = express();
-const PORT = process.env.PORT || 8080;
+const PORT = process.env.PORT || 7070;
 
 app.listen(PORT, () => {
-  console.log(`Express running on ${PORT}`);
+  console.log(`Express running on http://localhost:${PORT}/`);
 });
