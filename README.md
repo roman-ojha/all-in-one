@@ -3,6 +3,7 @@
 [<h1 style="font-size:60px; width:100%;">All In One</h1>](https://github.com/roman-ojha/all-in-one)
 
 </div>
+# It is in the Initial Phase of the App
 
 # This Project will contain all the technology that I had learned so far
 
