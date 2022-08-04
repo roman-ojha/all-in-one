@@ -7,7 +7,7 @@
 </div>
 
 
-| Directory            |            Description            |
+| App Directory        |            Description            |
 | :------------------- | :-------------------------------: |
 | [estack](estack)     |    Vue + Electron eBook Store     |
 | [inroad](inroad)     |      React-Native Rider App       |
@@ -16,33 +16,6 @@
 | [express](express)   |          Express Server           |
 | [django](django)     |           Django Server           |
 | [contract](contract) |          Smart-Contract           |
-
-## Technology Used:
-| Main Technology       | Description                             |
-| --------------------- | --------------------------------------- |
-| NextJS                | ETHMe Web App                           |
-| ElectronJS            | eStack Desktop App                      |
-| VueJS                 | Electron EStack App                     |
-| Flutter               | DMailer Mobile App                      |
-| React-Native          | InRoad Mobile App                       |
-| Express               | Backend API/Server                      |
-| Django-Rest-Framework | Backend API/Server                      |
-| Solidity              | For Smart Contract                      |
-| MongoDB               | For No-SQL Database                     |
-| PostgreSQL            | For SQL Database                        |
-| BigChainDB            | Blockchain Based Database               |
-| IPFS                  | To Store File in peer-to-peer network   |
-| Redis                 | For Caching                             |
-| Docker                | To Dockerize Apps                       |
-| GraphQL               | For Querying                            |
-| Typescript            | For Web, React-Native, Vue, Express     |
-| Sass                  | CSS Preprocessor                        |
-| Redux                 | For Web & React-Native State Management |
-| Jest                  | For Testing                             |
-| VueX                  | For Vue State Management                |
-| Vue-Router            | For Vue Routing                         |
-| Bloc                  | For Flutter Bloc Patter                 |
-| Github Action         | CI/CD                                   |
 
 # Apps & It's Features
 - ## eStack (Blockchain Based eBook Store)
@@ -88,3 +61,30 @@
         - user Auth
         - Sand and Receive Email
         - Encrypted Email
+
+## Technology Used:
+| Main Technology       | Description                             |
+| --------------------- | --------------------------------------- |
+| NextJS                | ETHMe Web App                           |
+| ElectronJS            | eStack Desktop App                      |
+| VueJS                 | Electron EStack App                     |
+| Flutter               | DMailer Mobile App                      |
+| React-Native          | InRoad Mobile App                       |
+| Express               | Backend API/Server                      |
+| Django-Rest-Framework | Backend API/Server                      |
+| Solidity              | For Smart Contract                      |
+| MongoDB               | For No-SQL Database                     |
+| PostgreSQL            | For SQL Database                        |
+| BigChainDB            | Blockchain Based Database               |
+| IPFS                  | To Store File in peer-to-peer network   |
+| Redis                 | For Caching                             |
+| Docker                | To Dockerize Apps                       |
+| GraphQL               | For Querying                            |
+| Typescript            | For Web, React-Native, Vue, Express     |
+| Sass                  | CSS Preprocessor                        |
+| Redux                 | For Web & React-Native State Management |
+| Jest                  | For Testing                             |
+| VueX                  | For Vue State Management                |
+| Vue-Router            | For Vue Routing                         |
+| Bloc                  | For Flutter Bloc Patter                 |
+| Github Action         | CI/CD                                   |
