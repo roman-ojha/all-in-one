@@ -8,7 +8,7 @@
 
 | Directory                    |           Description           |
 | :--------------------------- | :-----------------------------: |
-| [web](web)                   |         Next.js Web App         |
+| [InRoad](inroad)             |        Next.js Rider App        |
 | [eStack](estack)             |   Vue + Electron eBook Store    |
 | [DMailer](dmailer)           | Flutter Decentralized Email App |
 | [react-native](react-native) |     React-Native Mobile App     |
