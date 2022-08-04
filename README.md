@@ -6,6 +6,7 @@
 
 </div>
 
+# NOTE: Project is in the initial Phase
 
 | App Directory        |            Description            |
 | :------------------- | :-------------------------------: |
@@ -17,7 +18,7 @@
 | [django](django)     |           Django Server           |
 | [contract](contract) |          Smart-Contract           |
 
-# Apps & It's Features
+# Apps & It's Features In Future
 - ## eStack (Blockchain Based eBook Store)
     - ### Using:
         - Electron + Vue
@@ -63,28 +64,24 @@
         - Encrypted Email
 
 ## Technology Used:
-| Main Technology       | Description                             |
-| --------------------- | --------------------------------------- |
-| NextJS                | ETHMe Web App                           |
-| ElectronJS            | eStack Desktop App                      |
-| VueJS                 | Electron EStack App                     |
-| Flutter               | DMailer Mobile App                      |
-| React-Native          | InRoad Mobile App                       |
-| Express               | Backend API/Server                      |
-| Django-Rest-Framework | Backend API/Server                      |
-| Solidity              | For Smart Contract                      |
-| MongoDB               | For No-SQL Database                     |
-| PostgreSQL            | For SQL Database                        |
-| BigChainDB            | Blockchain Based Database               |
-| IPFS                  | To Store File in peer-to-peer network   |
-| Redis                 | For Caching                             |
-| Docker                | To Dockerize Apps                       |
-| GraphQL               | For Querying                            |
-| Typescript            | For Web, React-Native, Vue, Express     |
-| Sass                  | CSS Preprocessor                        |
-| Redux                 | For Web & React-Native State Management |
-| Jest                  | For Testing                             |
-| VueX                  | For Vue State Management                |
-| Vue-Router            | For Vue Routing                         |
-| Bloc                  | For Flutter Bloc Patter                 |
-| Github Action         | CI/CD                                   |
+| Main Technology       | Description                           |
+| --------------------- | ------------------------------------- |
+| NextJS                | ETHMe Web App                         |
+| ElectronJS            | eStack Desktop App                    |
+| VueJS                 | Electron EStack App                   |
+| Flutter               | DMailer Mobile App                    |
+| React-Native          | InRoad Mobile App                     |
+| Express               | Backend API/Server                    |
+| Django-Rest-Framework | Backend API/Server                    |
+| Solidity              | For Smart Contract                    |
+| MongoDB               | For No-SQL Database                   |
+| PostgreSQL            | For SQL Database                      |
+| BigChainDB            | Blockchain Based Database             |
+| IPFS                  | To Store File in peer-to-peer network |
+| Redis                 | For Caching                           |
+| Docker                | To Dockerize Apps                     |
+| GraphQL               | For Querying                          |
+| Typescript            | For Web, React-Native, Vue, Express   |
+| Sass                  | CSS Preprocessor for Styling          |
+| Jest                  | For Testing                           |
+| Github Action         | CI/CD                                 |
