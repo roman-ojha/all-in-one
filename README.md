@@ -6,15 +6,15 @@
 
 # This Project will contain all the technology that I had learned so far
 
-| Directory                    |        Description         |
-| :--------------------------- | :------------------------: |
-| [web](web)                   |      Next.js Web App       |
-| [eStack](estack)             | Vue + Electron eBook Store |
-| [flutter](flutter)           |     Flutter Mobile App     |
-| [react-native](react-native) |  React-Native Mobile App   |
-| [express](express)           |        Express API         |
-| [django](django)             |         Django API         |
-| [contract](contract)         |       Smart-Contract       |
+| Directory                    |           Description           |
+| :--------------------------- | :-----------------------------: |
+| [web](web)                   |         Next.js Web App         |
+| [eStack](estack)             |   Vue + Electron eBook Store    |
+| [DMailer](dmailer)           | Flutter Decentralized Email App |
+| [react-native](react-native) |     React-Native Mobile App     |
+| [express](express)           |           Express API           |
+| [django](django)             |           Django API            |
+| [contract](contract)         |         Smart-Contract          |
 
 ## Technology Used:
 | Main Technology | Description                             |
